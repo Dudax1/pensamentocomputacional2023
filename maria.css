@@ -1,13 +1,13 @@
 h1 {
     text-align:center;
-    background-color: aqua;
+    background-color: rgb(44, 170, 170);
 }
 h2{
     text-align: center;
 }
 h3{
     font-style: oblique;
-    background-color: blue;
+    background-color: rgb(253, 189, 255);
     text-align: center;
 }
 
@@ -20,7 +20,7 @@ strong {
 }
 
 body {
-    background-color: blueviolet;
+    background-color: rgb(208, 157, 255);
 }
 .imagem1 {
     width: 200px;
@@ -30,11 +30,11 @@ body {
 }
 
 .unicornio {
-    background-color: forestgreen
+    background-color: rgb(255, 212, 253)
 
 }
 .brilho {
-   color: aqua;
+   color: #274444;
     font-style: italic
 }
 .lista {
