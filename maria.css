@@ -23,7 +23,7 @@ body {
     background-color: rgb(208, 157, 255);
 }
 .imagem1 {
-    width: 200px;
+    width: 700px;
 }
 .imagemcentralizada {
  text-align: center;
@@ -41,4 +41,5 @@ body {
         display: inline-block;
         padding: 5%;
         margin-right: 10%;
+        text-align: left;
     }
