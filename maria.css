@@ -1,13 +1,13 @@
 h1 {
     text-align:center;
-    background-color: rgb(44, 170, 170);
+    background-color: rgb(255, 113, 151);
 }
 h2{
     text-align: center;
 }
 h3{
     font-style: oblique;
-    background-color: rgb(253, 189, 255);
+    background-color: rgb(233, 144, 236);
     text-align: center;
 }
 
@@ -20,7 +20,7 @@ strong {
 }
 
 body {
-    background-color: rgb(208, 157, 255);
+    background-color: rgb(219, 181, 255);
 }
 .imagem1 {
     width: 700px;
@@ -30,11 +30,11 @@ body {
 }
 
 .unicornio {
-    background-color: rgb(255, 212, 253)
+    background-color: rgb(215, 113, 210)
 
 }
 .brilho {
-   color: #274444;
+   color: #2a22cb;
     font-style: italic
 }
 .lista {
@@ -42,4 +42,8 @@ body {
         padding: 5%;
         margin-right: 10%;
         text-align: left;
+        border-color: rgb(255, 126, 147);
+        border-width: 20px;
+        border-style: solid;
+        border-radius: 12px 50px 2px 120px;
     }
